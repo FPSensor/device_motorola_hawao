@@ -22,10 +22,8 @@ PRODUCT_MODEL := moto g42
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
-BUILD_FINGERPRINT := "motorola/hawao_g/hawao:12/S2SES32.28-70-8/6b1d4-2ad06e:user/release-keys"
+BUILD_FINGERPRINT := "motorola/hawao_g/hawao:13/T2SE33.73-23-2/8d297-b531e:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_PRODUCT=hawao_g \
-    PRIVATE_BUILD_DESC="hawao_g-user 12 S2SES32.28-70-8 6b1d4-2ad06e release-keys"
-
-
+    PRIVATE_BUILD_DESC="hawao_g-user 13 T2SE33.73-23-2 8d297-b531e release-keys"
