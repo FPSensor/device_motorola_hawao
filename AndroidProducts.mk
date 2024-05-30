@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_hawao.mk
+    $(LOCAL_DIR)/bliss_hawao.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_hawao-user \
-    lineage_hawao-userdebug \
-    lineage_hawao-eng
+    bliss_hawao-user \
+    bliss_hawao-userdebug \
+    bliss_hawao-eng
